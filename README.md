@@ -1,2 +1,2 @@
-# SignIn
-It's include Sign in and signup with splash screen Front end project
+# registration && Login
+It's include Sign in and signup, drawer navigation with splash screen Front end project
